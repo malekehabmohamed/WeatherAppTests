@@ -30,5 +30,5 @@ Execute the `testScenarios` class as a TestNG test to run the automated scenario
 - The `hours` variable in the `testScenarios` class is set to 6 by default. Adjust it as needed for your test cases.
 
 ## Author
-Malek EHab
+Malek Ehab
 Senior QC Engineer
