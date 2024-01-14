@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b78ea6c-29c8-4d56-b1af-9c5d1ccf82c8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestCases/testScenarios.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#setUp#0;class#testScenarios#0" />
+                <element signature="method#getMainScreenWith12HoursFormatAndFahrenheitUnit#0;class#testScenarios#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/TestNG.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="1044" selection-start-line="1044" selection-end-line="1044" />
+              <folding>
+                <element signature="e#32662#32663#0" expanded="true" />
+                <element signature="e#32708#32709#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunnerWorker.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="e#2034#2035#0" expanded="true" />
+                <element signature="e#2120#2121#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Screens/MainScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1156">
+              <caret line="148" selection-start-line="148" selection-end-line="148" />
+              <folding>
+                <element signature="method#MainScreen#0;class#MainScreen#0" />
+                <element signature="method#getMainScreen#0;class#MainScreen#0" />
+                <element signature="method#changeTimeFormatTo24hours#0;class#MainScreen#0" />
+                <element signature="method#changeTempUnitToCelsius#0;class#MainScreen#0" />
+                <element signature="method#changeTempUnitToCelsius#1;class#MainScreen#0" />
+                <element signature="method#rainAndHumidityValues#0;class#MainScreen#0" />
+                <element signature="method#swipe#0;class#MainScreen#0" />
+                <element signature="method#performSwipe#0;class#MainScreen#0" />
+                <element signature="method#assert12HoursFormat#0;class#MainScreen#0" />
+                <element signature="method#assert24HoursFormat#0;class#MainScreen#0" />
+                <element signature="method#assertSetting#0;class#MainScreen#0" />
+                <element signature="method#assertTimeFormatContains#0;class#MainScreen#0" />
+                <element signature="method#assertTempUnitEquals#0;class#MainScreen#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WeatherForecastAppiumTests.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/TestCases/AutomationTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestCases/baseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Screens/MainScreen.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/TestCases/testScenarios.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-6" />
+    <option name="width" value="1289" />
+    <option name="height" value="684" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WeatherForecastAppiumTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WeatherForecastAppiumTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WeatherForecastAppiumTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WeatherForecastAppiumTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WeatherForecastAppiumTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WeatherForecastAppiumTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/avamar/Javaworkspace/CPES-IPN" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.testScenarios.getMainScreenWith12HoursFormatAndFahrenheitUnit">
+    <configuration name="testScenarios" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WeatherForecastAppiumTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.testScenarios" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testScenarios.changeTemperatureUnitToCelsius" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WeatherForecastAppiumTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.testScenarios" />
+      <option name="METHOD_NAME" value="changeTemperatureUnitToCelsius" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testScenarios.changeTimeFormatTo24Hours" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WeatherForecastAppiumTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.testScenarios" />
+      <option name="METHOD_NAME" value="changeTimeFormatTo24Hours" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testScenarios.getMainScreenWith12HoursFormatAndFahrenheitUnit" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WeatherForecastAppiumTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.testScenarios" />
+      <option name="METHOD_NAME" value="getMainScreenWith12HoursFormatAndFahrenheitUnit" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.testScenarios.getMainScreenWith12HoursFormatAndFahrenheitUnit" />
+        <item itemvalue="TestNG.testScenarios" />
+        <item itemvalue="TestNG.testScenarios.changeTimeFormatTo24Hours" />
+        <item itemvalue="TestNG.testScenarios.changeTemperatureUnitToCelsius" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b78ea6c-29c8-4d56-b1af-9c5d1ccf82c8" name="Default Changelist" comment="" />
+      <created>1704997714631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704997714631</updated>
+      <workItem from="1704997716229" duration="12920000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="testScenarios - 2024.01.11 at 23h 55m 11s.xml">
+      <configuration name="testScenarios" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="testScenarios_getMainScreenWith12HoursFormatAndFahrenheitUnit - 2024.01.11 at 23h 59m 32s.xml">
+      <configuration name="testScenarios.getMainScreenWith12HoursFormatAndFahrenheitUnit" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="testScenarios_getMainScreenWith12HoursFormatAndFahrenheitUnit - 2024.01.12 at 00h 00m 25s.xml">
+      <configuration name="testScenarios.getMainScreenWith12HoursFormatAndFahrenheitUnit" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="testScenarios_getMainScreenWith12HoursFormatAndFahrenheitUnit - 2024.01.12 at 00h 01m 39s.xml">
+      <configuration name="testScenarios.getMainScreenWith12HoursFormatAndFahrenheitUnit" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="testScenarios_getMainScreenWith12HoursFormatAndFahrenheitUnit - 2024.01.12 at 00h 48m 17s.xml">
+      <configuration name="testScenarios.getMainScreenWith12HoursFormatAndFahrenheitUnit" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="testScenarios_getMainScreenWith12HoursFormatAndFahrenheitUnit - 2024.01.13 at 00h 05m 13s.xml">
+      <configuration name="testScenarios.getMainScreenWith12HoursFormatAndFahrenheitUnit" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="testScenarios_getMainScreenWith12HoursFormatAndFahrenheitUnit - 2024.01.13 at 00h 05m 41s.xml">
+      <configuration name="testScenarios.getMainScreenWith12HoursFormatAndFahrenheitUnit" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="testScenarios_getMainScreenWith12HoursFormatAndFahrenheitUnit - 2024.01.13 at 00h 11m 07s.xml">
+      <configuration name="testScenarios.getMainScreenWith12HoursFormatAndFahrenheitUnit" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="testScenarios_getMainScreenWith12HoursFormatAndFahrenheitUnit - 2024.01.13 at 00h 12m 05s.xml">
+      <configuration name="testScenarios.getMainScreenWith12HoursFormatAndFahrenheitUnit" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="testScenarios_getMainScreenWith12HoursFormatAndFahrenheitUnit - 2024.01.13 at 00h 12m 59s.xml">
+      <configuration name="testScenarios.getMainScreenWith12HoursFormatAndFahrenheitUnit" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12920000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.56305504" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25222024" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24939272" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestCases/AutomationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestCases/baseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="15" selection-start-line="15" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/TestNG.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="1044" selection-start-line="1044" selection-end-line="1044" />
+          <folding>
+            <element signature="e#32662#32663#0" expanded="true" />
+            <element signature="e#32708#32709#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#2034#2035#0" expanded="true" />
+            <element signature="e#2120#2121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WeatherForecastAppiumTests.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Screens/MainScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+          <folding>
+            <element signature="method#MainScreen#0;class#MainScreen#0" />
+            <element signature="method#getMainScreen#0;class#MainScreen#0" />
+            <element signature="method#changeTimeFormatTo24hours#0;class#MainScreen#0" />
+            <element signature="method#changeTempUnitToCelsius#0;class#MainScreen#0" />
+            <element signature="method#changeTempUnitToCelsius#1;class#MainScreen#0" />
+            <element signature="method#rainAndHumidityValues#0;class#MainScreen#0" />
+            <element signature="method#swipe#0;class#MainScreen#0" />
+            <element signature="method#performSwipe#0;class#MainScreen#0" />
+            <element signature="method#assert12HoursFormat#0;class#MainScreen#0" />
+            <element signature="method#assert24HoursFormat#0;class#MainScreen#0" />
+            <element signature="method#assertSetting#0;class#MainScreen#0" />
+            <element signature="method#assertTimeFormatContains#0;class#MainScreen#0" />
+            <element signature="method#assertTempUnitEquals#0;class#MainScreen#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestCases/testScenarios.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setUp#0;class#testScenarios#0" />
+            <element signature="method#getMainScreenWith12HoursFormatAndFahrenheitUnit#0;class#testScenarios#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
